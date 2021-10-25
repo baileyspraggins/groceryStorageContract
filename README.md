@@ -13,9 +13,9 @@ To showcase simple solidity techniques and deploy & store data to the Ethereum B
 ## Contract Features
 - Users are able to store variables that represent grocery store items on the Ethereum Blockchain.
 - Grocery Variables
--- item (string)
--- price (uint256)
--- qty (uint256)
+  - item (string)
+  - price (uint256)
+  - qty (uint256)
 - A type is created called ItemList that stores all variables of an item together.
 - Array called groceryList that stores instances of ItemList.
 - Function that allows users to add items to the groceryList array.
