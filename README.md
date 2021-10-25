@@ -24,7 +24,7 @@ To showcase simple solidity techniques and deploy & store data to the Ethereum B
 ## Conclusion 
 This contract was tested using a grocery list of 5 different items, remix IDE, Rinkeby Test Network and Etherscan. Details are below:
 
-### Grocery List
+### Grocery List:
 | Item         | Price     | QTY        |
 |--------------|-----------|------------|
 | Poptarts     | $7.00.    | 2          |
@@ -33,4 +33,5 @@ This contract was tested using a grocery list of 5 different items, remix IDE, R
 | Chicken      | $10.00    | 12         |
 | Kombucha     | $5.00     | 3          |
 
-
+### Example Output:
+<img width="296" alt="Screen Shot 2021-10-25 at 4 06 37 PM" src="https://user-images.githubusercontent.com/62624378/138771002-135d50de-e345-4a72-823d-34dc9cd57d9f.png">
