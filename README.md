@@ -1,2 +1,36 @@
-# groceryStorageContract
-Creating a basic contract via solidity to store your grocery list on the Ethereum Blockchain
+# Grocery List Storage Contract
+Description: Creating a basic contract via solidity to store your grocery list on the Ethereum Blockchain.
+
+## Purpose
+To showcase simple solidity techniques and deploy & store data to the Ethereum Blockchain.
+
+## Stack
+- Solidity
+- Remix IDE
+- Rinkeby Test Network
+- Etherscan 
+
+## Contract Features
+- Users are able to store variables that represent grocery store items on the Ethereum Blockchain.
+- Grocery Variables
+-- item (string)
+-- price (uint256)
+-- qty (uint256)
+- A type is created called ItemList that stores all variables of an item together.
+- Array called groceryList that stores instances of ItemList.
+- Function that allows users to add items to the groceryList array.
+- 2 mapping functions that allow users to access price and qty for a given grocery item.
+
+## Conclusion 
+This contract was tested using a grocery list of 5 different items, remix IDE, Rinkeby Test Network and Etherscan. Details are below:
+
+### Grocery List
+| Item         | Price     | QTY        |
+|--------------|-----------|------------|
+| Poptarts     | $7.00.    | 2          |
+| Apples       | $1.00     | 5          |
+| Peaches      | $0.50     | 5          |
+| Chicken      | $10.00    | 12         |
+| Kombucha     | $5.00     | 3          |
+
+
