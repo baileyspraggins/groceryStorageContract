@@ -24,6 +24,9 @@ To showcase simple solidity techniques and deploy & store data to the Ethereum B
 ## Conclusion 
 This contract was tested using a grocery list of 5 different items, remix IDE, Rinkeby Test Network and Etherscan. Details are below:
 
+### Example Contract Address:
+0x68997637aa6657295b60edf9ab8c16310b9717a5
+
 ### Grocery List:
 | Item         | Price     | QTY        |
 |--------------|-----------|------------|
