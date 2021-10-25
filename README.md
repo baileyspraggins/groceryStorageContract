@@ -1,8 +1,8 @@
 # Grocery List Storage Contract
-Description: Creating a basic contract via solidity to store your grocery list on the Ethereum Blockchain.
+Description: Creating a basic contract via Solidity to store your grocery list on the Ethereum Blockchain.
 
 ## Purpose
-To showcase simple solidity techniques and deploy & store data to the Ethereum Blockchain.
+To showcase simple Solidity techniques and deploy & store data to the Ethereum Blockchain.
 
 ## Stack
 - Solidity
@@ -22,7 +22,9 @@ To showcase simple solidity techniques and deploy & store data to the Ethereum B
 - 2 mapping functions that allow users to access price and qty for a given grocery item.
 
 ## Conclusion 
-This contract was tested using a grocery list of 5 different items, remix IDE, Rinkeby Test Network and Etherscan. Details are below:
+This contract was tested using a grocery list of 5 different items, Remix IDE, Rinkeby Test Network and Etherscan. 
+
+Details are below:
 
 ### Example Contract Address:
 [0x68997637aa6657295b60edf9ab8c16310b9717a5](https://rinkeby.etherscan.io/address/0x68997637aa6657295b60edf9ab8c16310b9717a5)
